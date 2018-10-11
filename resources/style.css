@@ -1,7 +1,23 @@
+body {
+  font-family: verdana, sans-serif;
+  font-size: 21px;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
 h1 {
   font-family: verdana;
-  font-weight: nomral;
+  font-weight: normal;
   font-size: 50px;
+  text-align: center;
+  color: white;
+}
+
+h2 {
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 42px;
   text-align: center;
   color: white;
 }
@@ -9,9 +25,14 @@ h1 {
 .cta {
   color: aquamarine;
   font-size: 16px;
-  text-align: center; 
+  text-align: center;
 }
 
-body {
-  background-color: black;
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+.footer {
+  text-align: right;
 }
